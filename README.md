@@ -1,0 +1,1 @@
+# ProjetoDio-An-lisedeSentimentoscomLanguageStudionoAzureAI
