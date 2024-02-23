@@ -8,4 +8,4 @@ Utilizei os links abaixo como base:
 https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/09-speech.html
 https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/06-text-analysis.html
 
-O reconecimento de falar não conseguiu capitar palavras 100% .Ainda é preciso uma revisão feita por um humano para garantir que o texto seja transcrito corretamente.
+O reconecimento de falar não conseguiu capitar palavras 100% .Ainda é preciso uma revisão feita por um humano para garantir que o texto seja transcrito corretamente, por exemplo a palavra WIKI de wikipedia foi transcrita como week (semana).
